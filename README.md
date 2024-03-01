@@ -1,4 +1,4 @@
 # sumitbhagat
 This is My First GIT Repository,
 <br>
-Author - Sumit Bhagat
+Author - Sumit kumar Bhagat 
