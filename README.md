@@ -1,3 +1,3 @@
 # sumitbhagat
-this is my first repository 
-author - Sumit Bhagat
+This is My First GIT Repository 
+Author - Sumit Bhagat
